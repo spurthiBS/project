@@ -1,0 +1,71 @@
+.section{
+  text-align: center;
+  background-image: url("assets/background-img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:85vh;
+
+}
+
+.navbar {
+  background-color: black;
+  opacity: 0.8;
+ }
+
+.brand-info{
+  padding-right:24px;
+}
+
+ .checkvalidity {
+  background-color:#ff9900;
+  border-radius:0.2rem;
+ }
+
+ .markup{
+  background-color: #28a745;
+  border-radius: 0.2rem;
+ }
+
+ .cart{
+  background-color: #ff9900;
+  border-radius: 0.2rem;
+ }
+
+div .booking-tab-section{
+background-color: rgba(0,0,0,.5);
+margin: auto;
+width:60%;
+margin-top: 80px;
+justify-content: center;
+height:55vh; /* Adjust the height based on your requirements */
+color: white;
+   
+}
+
+.checked-type-sec{
+border: 1px dotted #dddddd5e;
+background-color: #00000038;
+color: #f90;
+text-align: left;
+}
+
+button.btn.btn.search-btn {
+
+  background-color: #ff9900;
+  color: white;
+
+}
+
+select.form-select.form-sel {
+  border-radius: 0.2rem !important;
+}
+input.form-control.date-picker {
+  border-radius: 0.2rem !important;
+
+}
+
+
+
+
